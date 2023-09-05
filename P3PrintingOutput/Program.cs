@@ -1,3 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// console class, write line method, string argument
+Console.WriteLine("Hello, World!");
+Console.WriteLine("New Line!");
 
-Console.WriteLine("Hello, Output!");
+// Also possible: Console.WriteLine("Hello World!\nNew Line!");
